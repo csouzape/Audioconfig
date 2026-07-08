@@ -12,9 +12,3 @@ The main file is HAVITGK59.json, which is the exported EasyEffects preset. If yo
 
 This is very much a "works for me" configuration rather than a claim that it is the perfect solution. That said, it has been good enough that I keep coming back to it.
 
-## How to use
-
-1. Install EasyEffects.
-2. Open the preset import dialog.
-3. Load HAVITGK59.json.
-4. Adjust input gain, gate threshold, and compressor settings to suit your setup.
